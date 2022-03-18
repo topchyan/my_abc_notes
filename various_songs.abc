@@ -1,0 +1,52 @@
+X:1
+T:Yo Hanino, Tu Hanina
+C:Flory Jagoda
+O:Sephardic, Ladino
+F:https://www.youtube.com/watch?v=vg-oltevdMo
+Z:Avetik Topchyan
+M:4/4
+Q:1/4=130
+K:Gphr =B
+V:G1
+V:G2
+%%score (G1 G2)
+%%MIDI program 24
+P:Intro
+[V:G1] DEFG  AA/G/    FE        | D2    DE   {E}DC   B,2  | DEFG  AG   A/G/F       | F4          B    z3  |
+[V:G2] B,CDE FF/E/    DC        | B,2   B,C  {C}B,A, G,2  | B,CDE FE   F/E/D       | D4          G    z3  |
+[V:G1] DEFG  AG{G}FE            | FEED  D2   DE           | F2    FE   EDDE        | {E}DCCB,    B,2  z2  | {a}gf g2 z4 ||
+[V:G2] B,CDE FE{D}DC            | DCCB, B,2  B,C          | D2    DC   CB,B,C      | {C}B,A,A,G, G,2  z2  | {A}GF G2 z4 ||
+P:Verse
+[V:G1] B2    (Bc)(de) f2        | (fe)  (ed) (dc)    (cB) | B2    (Bc) (de)   f2   | a2          (gf) f4  |
+[V:G2] G2    (GA)(Bc) d2        | (dc)  (cB) (BA)    (AG) | G2    (GA) (Bc)   d2   | f2          (ed) d4  |
+w: Yo ha - ni - no,               Tu*   ha - ni - na,       moz   ta - ma - re -     mos         los*  doz 
+[V:G1] |: a2    a2    (ag) (gf) | f2    (ef) e2      (de) | f2    fe   (ed)   (de) | (dc)        (cB) B4 :|
+[V:G2] |: f2    f2    (fe) (ed) | d2    (cd) c2      (Bc) | d2    dc   (cB)   (Bc) | (BA)        (AG) G4 :|
+w: Loz i-ji \- kos *              ke    moz * na \- sen     Ko-   mo la lu \- na *   i *         el * sol
+P:Chorus
+[V:G1] |: aaaa  aggf            | feef  e2   (de)         | f2    (fe) (ed)   (de) | (dc)        (cB) B4 :|
+[V:G2] |: ffff  feed            | dccd  c2   (Bc)         | d2    (dc) (cB)   (Bc) | (BA)        (AG) G4 :|
+w:Aman* aman* aman* aman*         aman* aman* a-man *       ko-mo la    lu *  na *   i *         el * sol
+
+X:2
+T:Ağlama Yar Ağlama
+O:Dikranagerd (Diyarbakır, Turkey) 
+Z:Avetik Topchyan
+L:1/4
+P:(ABA)
+M:4/4
+Q:1/4=120
+K:EPhr clef=treble transpose=-12 
+%%MIDI  program 24       % Instrument
+[P:A] z2 GA          |: A/>B/A/G/  A2 | z A/B/ A B         | A/ G ^/F/      G/A/ F | z G/A/ G A | G/>A/G/^/F/ E2           | z   ^/F/E/ F G         |1 E2 (D/E/^/F/G/     | A2) G A :|2 x2 E2 & E,2 x2 |]
+[P:B] z2 E  B        |  B2         B2 | z B/B/ B c         | B  A B/>A/G/A/        | G A/B/ A B | A/          G  ^/F/ G/A/ F | z>E G      A           |  G  ^/F/E/        F2  |
+x2    E  B  & E,2 x2 |  (B2{d^cd}) B2 | x B/B/ B c & E, x3 | B  A B/>A/G/A/        | G A/B/ A B | A/          G  ^/F/ G/A/ F | x   E      G A & E, x3 |  G  ^/F/E/        F2 ||
+W:Ağlama yar ağlama anam
+W:Mavi yazma bağlama
+W:Mavi yazma tez solar anam
+W:Ciğerimi dağlama
+W:
+W:Elmada al olaydın anam
+W:Selvi de dal olaydın
+W:Bana göre yar mı yok anam
+W:İstedim sen olaydın
