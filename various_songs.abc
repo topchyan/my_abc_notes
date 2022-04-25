@@ -50,3 +50,27 @@ W:Elmada al olaydın anam
 W:Selvi de dal olaydın
 W:Bana göre yar mı yok anam
 W:İstedim sen olaydın
+
+X:3
+T: Sevani Tsgnorsner (Dance)
+O: Armenia
+Z: Avetik Topchyan
+F: https://www.youtube.com/watch?v=QgEvApulTg0
+M: 10/8
+L: 1/8
+K: C transpose=-12 
+Q: 1/4=150
+%%MIDI  program 24       % Instrument
+P: Intro
+   ae    aae         ae aae   | ae    aae   ae aae   ||
+P: A
+   z     EAAG        A2 GAB   | cBd   c2    z eddc    | dcedB cdBA z   |
+   z     EAAG        AB/A/GAB | cBdc  z2    eddc      | dcedB cdB/c/AG |
+P: B
+   ccGcd eedec                | ddcde ccBcG           |
+   ccGcd ee/f/e/d/ec          | d2    cde   cd/c/Bcd  | e8    z2       |
+P: C
+   e2    ddc         e2 ddc   | defga e2    ddc       | d8    z2       |
+P: D
+|: d2    cde         cBABc    | defdc d4>   z         |
+   d2    cde         cBABc/d/ | cdec/d/B/c/ A4>   z        :|
