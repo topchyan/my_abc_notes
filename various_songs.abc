@@ -74,3 +74,16 @@ P: C
 P: D
 |: d2    cde         cBABc    | defdc d4>   z         |
    d2    cde         cBABc/d/ | cdec/d/B/c/ A4>   z        :|
+
+X:4
+T:Arakel Mushegh (Առաքել Մուշեղ)
+O:Armenia
+M:6/8
+L:1/8
+Q:1/8=120
+K:Am transpose=-12
+%%MIDI program 53  % Voice Oohs
+G/      (A/  A2) A     (d>B) | (c2>   de/   d2)      | (B/d/) c2    (A/c/) (B<A)   |1 A6      :|2 (A3 B3) ||
+w: Ա ֊ռա ֊ քել Մու ֊ շեղ  | լեր ֊ նե֊ րից ~ ի ֊  ջան
+|: (cd e/d/) d/B/ (c  d/c/)       | (c/B/) (B>c) (B/A/) A | B      (c>A) c/B/   (B/A/A) |1 (A3 B3) :|2 A6      ||
+w:Ա- ~ վե -  րակ  ~ ջա ֊ | ղաց ~ հո - գի  ~ ջան ե-ղավ ~ օ - թե - ~ ւան
